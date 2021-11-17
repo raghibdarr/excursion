@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1,
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
