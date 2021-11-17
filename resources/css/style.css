@@ -30,3 +30,8 @@ h2 {
     color: gray;
     font-size: 21px;
 }
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
